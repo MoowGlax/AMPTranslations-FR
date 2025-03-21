@@ -1331,22 +1331,6 @@
     "Server Settings": "Paramètres du serveur",
     "Your connection to the AMP backend was lost. AMP will attempt to reestablish a connection.": "Votre connexion au backend AMP a été perdue. AMP va tenter de rétablir la connexion.",
     "If you chose to have your password remembered, you will be logged in automatically without interruption.": "Si vous avez choisi de mémoriser votre mot de passe, vous serez connecté automatiquement sans interruption.",
-    "Reconnecting": "Reconnexion",
-    "shortStateText.Suspended": "Suspendu",
-    "shortStateText.Offline": "Hors ligne",
-    "shortStateText.Waiting": "En attente",
-    "shortStateText.Idle": "Inactif",
-    "shortStateText.Starting": "Démarrage",
-    "shortStateText.Configuring": "Configuration",
-    "shortStateText.Running": "En fonctionnement",
-    "shortStateText.Restarting": "Redémarrage",
-    "shortStateText.Stopping": "Arrêt",
-    "shortStateText.Sleeping": "En veille",
-    "shortStateText.Installing": "Installation",
-    "shortStateText.Updating": "Mise à jour",
-    "shortStateText.WaitingForUser": "En attente de l'utilisateur",
-    "shortStateText.Error": "Erreur",
-    "shortStateText.Unavailable": "Indisponible",
-    "shortStateText.unknown": "Inconnu"
+    "Reconnecting": "Reconnexion"
   }
 }
