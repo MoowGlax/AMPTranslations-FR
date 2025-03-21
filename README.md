@@ -1,4 +1,4 @@
-# AMPTranslations-FR
+# CUBECODERS - AMPTranslations-FR
 **Traduction française pour CubeCoders AMP Panel**
 
 Bienvenue dans le projet **AMPTranslations-FR** ! Ce projet permet de traduire le panneau AMP Panel en français, en facilitant l'intégration d'une version française de l'interface utilisateur. Suivez les étapes ci-dessous pour installer et configurer correctement la traduction sur votre instance AMP.
