@@ -18,26 +18,3 @@ Une fois le fichier de traduction correctement installé dans le dossier `Locale
 Exemple : `http://panel.test.fr/?lang=fr`
 
 Voilà, vous avez maintenant AMP en français ! 🎉
-
----
-
-### ⚙️ Traduction des Statuts des Serveurs
-
-AMP Panel est un peu capricieux et ne permet pas de traduire tous les éléments via le fichier de langue. Par exemple, les statuts des serveurs (En ligne, Hors ligne, etc.) ne sont pas traduits automatiquement.
-
-Pour traduire ces statuts, suivez les étapes ci-dessous :
-
-#### 1. **Téléchargez le fichier `custom-translation.js` :**
-Placez le fichier `custom-translation.js` dans le répertoire suivant :
-
-`.ampdata/instances/ADS01/WebRoot/Scripts/custom-translation.js`
-
-#### 2. **Modifiez le fichier `Instances.html` :**
-Ouvrez le fichier `Instances.html` situé ici :
-
-`.ampdata/instances/ADS01/Plugins/ADSModule/Webroot/Instances.html`
-
-#### 3. **Ajoutez le script pour appliquer les traductions personnalisées :**
-Dans le fichier `Instances.html`, ajoutez la ligne suivante juste avant la fermeture de la balise `</body>` :
-```html
-<script type="text/javascript" src="/Scripts/custom-translation.js"></script>
